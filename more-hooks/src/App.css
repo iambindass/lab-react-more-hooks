@@ -1,0 +1,43 @@
+#root{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(73, 47, 116);
+}
+
+#inputBox{
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+#contentDiv{
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+button{
+margin: 10px;
+padding: 5px;
+background-color: black;
+color: white;
+border-radius: 5px;
+transition: background-color 0.3s ease;
+}
+
+button:hover{
+  background-color: #9fa7ac; 
+  color: black;
+}
+
+#goUp{
+  background-color: white;
+  color: black;
+}
+
+#goUp:hover{
+  background-color: #445662;
+  color: white;
+}
